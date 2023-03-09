@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm a graduate of the Apple Developer Academy @ POSTECH 1st
+- Apple Developer Academy @ POSTECH 1st
+- 열심히 공부하고 있는 중!!
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obtusa07&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
