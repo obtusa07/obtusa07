@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Apple Developer Academy @ POSTECH 1st
-- 열심히 공부하고 있는 중!!
+- Apple Developer Academy @ POSTECH 1st (https://developeracademy.postech.ac.kr/en/)
+- 
 
 
 
