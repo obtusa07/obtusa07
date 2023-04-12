@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - Apple Developer Academy @ POSTECH 1st (https://developeracademy.postech.ac.kr/en/)
-- 
 
 
 
