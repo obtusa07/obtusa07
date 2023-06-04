@@ -7,8 +7,7 @@
 
 - Apple Developer Academy @ POSTECH 1st (https://developeracademy.postech.ac.kr/en/)
 
-Portfolio （日本語）
-https://drive.google.com/file/d/1UfjL-yhIu1LjHCO92gKXBnjv16a6R6P0/view
+- Portfolio （日本語） https://drive.google.com/file/d/1UfjL-yhIu1LjHCO92gKXBnjv16a6R6P0/view
 
 
 
