@@ -7,8 +7,11 @@ My personal full-stack Service - [SafetyBird](https://apps.apple.com/app/id67417
 <img src="https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f" width="300">
 <!-- ![ja-page1@3x](https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f) -->
 
+---
 
+Welcome to my GitHub!
 
+I'm Taehwan Kim,
 
 
 - Apple Developer Academy @ POSTECH 1st (https://developeracademy.postech.ac.kr/en/)
