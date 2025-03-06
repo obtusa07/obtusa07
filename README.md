@@ -3,6 +3,8 @@
 ---
 
 My personal full-stack Service - SafetyBird(https://apps.apple.com/app/id6741737069)
+<img src="https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f" width="300">
+![ja-page1@3x](https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f)
 
 
 
