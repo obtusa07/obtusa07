@@ -7,6 +7,9 @@ My personal full-stack Service - [SafetyBird](https://apps.apple.com/app/id67417
 <img src="https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f" width="300">
 <!-- ![ja-page1@3x](https://github.com/user-attachments/assets/7dba219a-8a2e-49a4-8dfe-2a39b995ad5f) -->
 
+This is an example of an iOS app developed with modularity in mind, using RIBs. - [Nber](https://github.com/obtusa07/Nber)
+
+
 ---
 
 Welcome to my GitHub!
