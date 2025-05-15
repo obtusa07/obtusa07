@@ -9,9 +9,7 @@ My personal full-stack Service - [SafetyBird](https://apps.apple.com/app/id67417
 
 ---
 
-This is an example of an iOS app developed with modularity in mind, using RIBs. - [Nber](https://github.com/obtusa07/Nber)
-
-You can find my works in my website - [Portfolio](https://portfolio.gibbous.app/jp/craft/)
+これは、RIBsを使用してモジュール化を念頭に置いて開発された iOS アプリケーションの例です。- [Nber](https://github.com/obtusa07/Nber)
 
 ---
 
